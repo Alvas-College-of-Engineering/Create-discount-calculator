@@ -32,8 +32,12 @@ javac DiscountApp.java
 java DiscountApp
 
 ## 📸 Output
+output.png
 
-(Add your screenshot here later)
+
+
+
+
 
 ## 👨‍💻 Author
 Stuthi G Challa
