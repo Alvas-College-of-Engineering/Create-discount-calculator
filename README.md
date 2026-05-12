@@ -32,7 +32,7 @@ javac DiscountApp.java
 java DiscountApp
 
 ## 📸 Output
-output.png
+output.png.png
 
 
 
